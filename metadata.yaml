@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33018
 description: 'Appeared twenty years after its original publication with the title:
   The Man Who Disappeared.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27925#The-Art-of-Disappearing
 gutenberg_issued: '2009-01-29'
 gutenberg_type: Text
 identifiers:
