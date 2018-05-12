@@ -1,0 +1,32 @@
+_repo: The-Art-of-Disappearing_27925
+_version: 0.1.0
+alternative_title: The Man Who Disappeared
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, John Talbot
+    birthdate: 1855
+    deathdate: 1923
+    gutenberg_agent_id: '33018'
+    url: http://www.gutenberg.org/2009/agents/33018
+description: 'Appeared twenty years after its original publication with the title:
+  The Man Who Disappeared.'
+gutenberg_issued: '2009-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Irish Americans -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Disguise -- Fiction'
+- !lcsh 'Runaway husbands -- Fiction'
+- !lcsh 'Catholics -- United States -- Fiction'
+title: The Art of Disappearing
+url: http://www.gutenberg.org/ebooks/27925
